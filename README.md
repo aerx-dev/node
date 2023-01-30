@@ -1,7 +1,7 @@
 # AERX Node
 We are developing a web 3 social network based on the Substrate protocol, with a fundamentally new approach to content monetization and the exchange of digital values.
 
-AERX is the native token of the Phu Quoc Dog network in a similar way that BTC is the native token of Bitcoin or Ether is the native token of the Ethereum blockchain.
+AERX is the native token of the AERX network in a similar way that BTC is the native token of Bitcoin or Ether is the native token of the Ethereum blockchain.
 
 ## Getting Started
 
