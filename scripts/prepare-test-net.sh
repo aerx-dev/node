@@ -7,8 +7,8 @@ if [ "$#" -ne 1 ]; then
 fi
 
 # Copy paste your mnemonic here.
-SECRET="panda dose welcome ostrich brief pull lawn table arrest worth ranch faculty"
-
+#SECRET="panda dose welcome ostrich brief pull lawn table arrest worth ranch faculty"
+SECRET="//Alice"
 generate_account_id() {
 	if [[ $2 == 'beefy' ]]; then
 		subkey inspect ${3:-} ${4:-} "$SECRET//$1//$2" | grep "Public key (hex)" | awk '{ print $4 }'
