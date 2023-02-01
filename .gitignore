@@ -1,2 +1,4 @@
 **/target/
 **/*.rs.bk
+customSpec-Testnet.json
+key
