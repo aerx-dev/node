@@ -117,7 +117,7 @@ fn barnacle_chain_spec_properties() -> serde_json::map::Map<String, serde_json::
 	serde_json::json!({
 		"ss58Format": 42,
 		"tokenDecimals": 18,
-		"tokenSymbol": "BAR",
+		"tokenSymbol": "AEX",
 	})
 	.as_object()
 	.expect("Map given; qed")
