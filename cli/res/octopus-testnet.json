@@ -3,7 +3,7 @@
   "id": "octopus-testnet",
   "chainType": "Live",
   "bootNodes": [
-    "/dns/p2p-testnet.aerx.space/tcp/30340/p2p/12D3KooWRm651Kd5GmsLTHJbgX5chQS5npx9ttLgo46UsegCMoNM"
+    "/dns/p2p-testnet.aerx.space/tcp/30333/p2p/12D3KooWRm651Kd5GmsLTHJbgX5chQS5npx9ttLgo46UsegCMoNM"
   ],
   "telemetryEndpoints": null,
   "protocolId": "aex",
