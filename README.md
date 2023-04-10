@@ -1,4 +1,7 @@
+![Build status](https://github.com/aerx-dev/node/actions/workflows/rust-build.yml/badge.svg?branch=main)
+
 # AERX Node
+
 We are developing a web 3 social network based on the Substrate protocol, with a fundamentally new approach to content monetization and the exchange of digital values.
 
 AEX is the native token of the AERX network in a similar way that BTC is the native token of Bitcoin or Ether is the native token of the Ethereum blockchain.
